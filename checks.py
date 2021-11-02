@@ -3,7 +3,7 @@ import csv
 #this function checks whether the given input contains swear words
 def find(lst1):
     #open and read csv file using csv module
-    file = open("D:/VS/Python/swearwords.csv")
+    file = open("swearwords.csv")
     read = csv.reader(file)
 
     #declared global variable to use outside the function
