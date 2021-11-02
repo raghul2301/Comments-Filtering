@@ -1,2 +1,2 @@
 # Comments-Filtering
-Filters comments that contains inappropriate words
+Filters comment that contains inappropriate words
